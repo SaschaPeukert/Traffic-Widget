@@ -1,6 +1,8 @@
 Traffic-Widget
 ==============
 
+App-Download: http://wwwpub.zih.tu-dresden.de/~s4627838/TrafficWidget/TrafficWidget.apk
+
 **English:**  
 An Android Widget for displaying the Traffic-Counter for denizens of student halls in Dresden.  
 For Android-Devices up from Version 2.3.   
